@@ -1,0 +1,10 @@
+ElGamal digital signature creation 
+Message = Offline classes started from March
+e2 = 1702
+S1 = 1954
+S2 = 2665
+Message and Digital Siganture pair = {Offline classes started from March , ( 1954 , 2665) }
+Verification of digital signature: 
+V1 = 598
+V2 = 598
+Signature Verified

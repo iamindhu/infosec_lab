@@ -1,0 +1,10 @@
+ElGamal digital signature creation 
+Message = Sweet Mango Fruit
+e2 = 1702
+S1 = 32
+S2 = 845
+Message and Digital Siganture pair = {Sweet Mango Fruit , ( 32 , 845) }
+Verification of digital signature: 
+V1 = 980
+V2 = 980
+Signature Verified

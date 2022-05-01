@@ -1,0 +1,10 @@
+ElGamal digital signature creation 
+Message = No online end semester exam
+e2 = 1702
+S1 = 1578
+S2 = 1282
+Message and Digital Siganture pair = {No online end semester exam , ( 1578 , 1282) }
+Verification of digital signature: 
+V1 = 696
+V2 = 696
+Signature Verified

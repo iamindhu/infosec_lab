@@ -1,0 +1,9 @@
+********* ENCRYPTION *********
+
+Plain text: password guessing attack
+Cipher text: PSWRGESNATCASODUSIGTAK
+
+********* DECRYPTION *********
+
+Cipher text: PSWRGESNATCASODUSIGTAK
+Plain text: passwordguessingattack

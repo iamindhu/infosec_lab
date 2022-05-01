@@ -1,0 +1,10 @@
+ElGamal digital signature creation 
+Message = Security is hard to achieve
+e2 = 1702
+S1 = 2048
+S2 = 2776
+Message and Digital Siganture pair = {Security is hard to achieve , ( 2048 , 2776) }
+Verification of digital signature: 
+V1 = 2817
+V2 = 2817
+Signature Verified

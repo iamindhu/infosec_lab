@@ -1,0 +1,9 @@
+********* ENCRYPTION *********
+
+Plain text: ransomware attack
+Cipher text: RNOWRATCASMAETAK
+
+********* DECRYPTION *********
+
+Cipher text: RNOWRATCASMAETAK
+Plain text: ransomwareattack

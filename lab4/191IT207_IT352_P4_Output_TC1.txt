@@ -1,0 +1,9 @@
+********* ENCRYPTION *********
+
+Plain text: capital city of karnataka
+Cipher text: CPTLIYFANTKAIACTOKRAAA
+
+********* DECRYPTION *********
+
+Cipher text: CPTLIYFANTKAIACTOKRAAA
+Plain text: capitalcityofkarnataka

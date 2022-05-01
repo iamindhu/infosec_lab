@@ -1,0 +1,10 @@
+ElGamal digital signature creation 
+Message = Apple Orange Mango Grapes
+e2 = 1702
+S1 = 128
+S2 = 216
+Message and Digital Siganture pair = {Apple Orange Mango Grapes , ( 128 , 216) }
+Verification of digital signature: 
+V1 = 2163
+V2 = 2163
+Signature Verified

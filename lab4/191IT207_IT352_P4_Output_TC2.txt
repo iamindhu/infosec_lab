@@ -1,0 +1,9 @@
+********* ENCRYPTION *********
+
+Plain text: tamilnadu state
+Cipher text: TMLAUTTAINDSAE
+
+********* DECRYPTION *********
+
+Cipher text: TMLAUTTAINDSAE
+Plain text: tamilnadustate

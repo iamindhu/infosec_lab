@@ -1,0 +1,2 @@
+[101 102 102 105  99  97  99 121]
+Key-inverse does not exist

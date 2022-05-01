@@ -1,0 +1,102 @@
+Analyzed Packet is Not-Intrusion Packet
+dt : 9906 switch : 1 src : 10.0.0.1 dst : 10.0.0.7 pktcount : 32914 bytecount : 35086324 dur : 73 dur_nsec : 246000000 tot_dur : 73246000000.0 flows : 2 packetins : 1931 pktperflow : 13385 byteperflow : 14268410 pktrate : 446 Pairflow : 0 Protocol : UDP port_no : 1 tx_bytes : 3626 rx_bytes : 35262270 tx_kbps : 0 rx_kbps : 3839 tot_kbps : 3839 
+Analyzed Packet is Not-Intrusion Packet
+dt : 9906 switch : 1 src : 10.0.0.1 dst : 10.0.0.7 pktcount : 32914 bytecount : 35086324 dur : 73 dur_nsec : 246000000 tot_dur : 73246000000.0 flows : 2 packetins : 1931 pktperflow : 13385 byteperflow : 14268410 pktrate : 446 Pairflow : 0 Protocol : UDP port_no : 1 tx_bytes : 3472 rx_bytes : 1332 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 9906 switch : 1 src : 10.0.0.1 dst : 10.0.0.7 pktcount : 32914 bytecount : 35086324 dur : 73 dur_nsec : 246000000 tot_dur : 73246000000.0 flows : 2 packetins : 1931 pktperflow : 13385 byteperflow : 14268410 pktrate : 446 Pairflow : 0 Protocol : UDP port_no : 4 tx_bytes : 3362 rx_bytes : 3236 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 9906 switch : 1 src : 10.0.0.1 dst : 10.0.0.7 pktcount : 32914 bytecount : 35086324 dur : 73 dur_nsec : 246000000 tot_dur : 73246000000.0 flows : 2 packetins : 1931 pktperflow : 13385 byteperflow : 14268410 pktrate : 446 Pairflow : 0 Protocol : UDP port_no : 2 tx_bytes : 3792 rx_bytes : 147627460 tx_kbps : 0 rx_kbps : 6467 tot_kbps : 6467 
+Analyzed Packet is Not-Intrusion Packet
+dt : 9906 switch : 1 src : 10.0.0.1 dst : 10.0.0.7 pktcount : 32914 bytecount : 35086324 dur : 73 dur_nsec : 246000000 tot_dur : 73246000000.0 flows : 2 packetins : 1931 pktperflow : 13385 byteperflow : 14268410 pktrate : 446 Pairflow : 0 Protocol : UDP port_no : 3 tx_bytes : 147629524 rx_bytes : 3465 tx_kbps : 6467 rx_kbps : 0 tot_kbps : 6467 
+Analyzed Packet is Not-Intrusion Packet
+dt : 9906 switch : 1 src : 10.0.0.1 dst : 10.0.0.7 pktcount : 32914 bytecount : 35086324 dur : 73 dur_nsec : 246000000 tot_dur : 73246000000.0 flows : 2 packetins : 1931 pktperflow : 13385 byteperflow : 14268410 pktrate : 446 Pairflow : 0 Protocol : UDP port_no : 2 tx_bytes : 3472 rx_bytes : 1172 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 9906 switch : 1 src : 10.0.0.1 dst : 10.0.0.7 pktcount : 32914 bytecount : 35086324 dur : 73 dur_nsec : 246000000 tot_dur : 73246000000.0 flows : 2 packetins : 1931 pktperflow : 13385 byteperflow : 14268410 pktrate : 446 Pairflow : 0 Protocol : UDP port_no : 3 tx_bytes : 35264510 rx_bytes : 3446 tx_kbps : 3839 rx_kbps : 0 tot_kbps : 3839 
+Analyzed Packet is Not-Intrusion Packet
+dt : 9906 switch : 1 src : 10.0.0.1 dst : 10.0.0.7 pktcount : 32914 bytecount : 35086324 dur : 73 dur_nsec : 246000000 tot_dur : 73246000000.0 flows : 2 packetins : 1931 pktperflow : 13385 byteperflow : 14268410 pktrate : 446 Pairflow : 0 Protocol : UDP port_no : 2 tx_bytes : 3492 rx_bytes : 1422 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 9906 switch : 1 src : 10.0.0.1 dst : 10.0.0.7 pktcount : 32914 bytecount : 35086324 dur : 73 dur_nsec : 246000000 tot_dur : 73246000000.0 flows : 2 packetins : 1931 pktperflow : 13385 byteperflow : 14268410 pktrate : 446 Pairflow : 0 Protocol : UDP port_no : 2 tx_bytes : 3582 rx_bytes : 1332 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 3 tx_bytes : 226233337 rx_bytes : 4127 tx_kbps : 2587 rx_kbps : 0 tot_kbps : 2587 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11605 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 126395 bytecount : 134737070 dur : 280 dur_nsec : 734000000 tot_dur : 281000000000.0 flows : 2 packetins : 1943 pktperflow : 13531 byteperflow : 14424046 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 4 tx_bytes : 352967212 rx_bytes : 4766 tx_kbps : 6400 rx_kbps : 0 tot_kbps : 6400 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 2 tx_bytes : 3845 rx_bytes : 1402 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 3 tx_bytes : 3959 rx_bytes : 144824155 tx_kbps : 0 rx_kbps : 7676 tot_kbps : 7676 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 2 tx_bytes : 3413 rx_bytes : 3665 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 1 tx_bytes : 3885 rx_bytes : 1492 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 3 tx_bytes : 3665 rx_bytes : 3413 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 1 tx_bytes : 3570 rx_bytes : 1492 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 1 tx_bytes : 3795 rx_bytes : 1242 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 3 tx_bytes : 4043 rx_bytes : 161293091 tx_kbps : 0 rx_kbps : 10271 tot_kbps : 10271 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 1 tx_bytes : 3795 rx_bytes : 1402 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 4 tx_bytes : 4127 rx_bytes : 226233337 tx_kbps : 0 rx_kbps : 2587 tot_kbps : 2587 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 3 tx_bytes : 3413 rx_bytes : 3665 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 3 tx_bytes : 4295 rx_bytes : 354583059 tx_kbps : 0 rx_kbps : 16577 tot_kbps : 16577 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 3 tx_bytes : 3413 rx_bytes : 3665 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 4 tx_bytes : 3917 rx_bytes : 143928631 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 2 tx_bytes : 4095 rx_bytes : 82306108 tx_kbps : 0 rx_kbps : 2587 tot_kbps : 2587 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 2 tx_bytes : 3413 rx_bytes : 3665 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 4 tx_bytes : 354583059 rx_bytes : 4295 tx_kbps : 16578 rx_kbps : 0 tot_kbps : 16578 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 4 tx_bytes : 3665 rx_bytes : 3413 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 1 tx_bytes : 3795 rx_bytes : 1242 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 1 tx_bytes : 3929 rx_bytes : 16470178 tx_kbps : 0 rx_kbps : 2594 tot_kbps : 2594 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 45304 bytecount : 48294064 dur : 100 dur_nsec : 716000000 tot_dur : 101000000000.0 flows : 3 packetins : 1943 pktperflow : 13535 byteperflow : 14428310 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 1 tx_bytes : 3775 rx_bytes : 1242 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.2 dst : 10.0.0.8 pktcount : 90333 bytecount : 96294978 dur : 200 dur_nsec : 744000000 tot_dur : 201000000000.0 flows : 3 packetins : 1943 pktperflow : 13534 byteperflow : 14427244 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 4 tx_bytes : 3665 rx_bytes : 3413 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11605 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 126395 bytecount : 134737070 dur : 280 dur_nsec : 734000000 tot_dur : 281000000000.0 flows : 2 packetins : 1943 pktperflow : 13531 byteperflow : 14424046 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 1 tx_bytes : 4288 rx_bytes : 74268156 tx_kbps : 0 rx_kbps : 2562 tot_kbps : 2562 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11335 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 4777 bytecount : 5092282 dur : 10 dur_nsec : 711000000 tot_dur : 10711000000.0 flows : 3 packetins : 1790 pktperflow : 0 byteperflow : 0 pktrate : 0 Pairflow : 0 Protocol : UDP port_no : 2 tx_bytes : 3753 rx_bytes : 1332 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11335 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 4777 bytecount : 5092282 dur : 10 dur_nsec : 711000000 tot_dur : 10711000000.0 flows : 3 packetins : 1790 pktperflow : 0 byteperflow : 0 pktrate : 0 Pairflow : 0 Protocol : UDP port_no : 3 tx_bytes : 3679 rx_bytes : 58460931 tx_kbps : 0 rx_kbps : 5232 tot_kbps : 5232 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11335 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 4777 bytecount : 5092282 dur : 10 dur_nsec : 711000000 tot_dur : 10711000000.0 flows : 3 packetins : 1790 pktperflow : 0 byteperflow : 0 pktrate : 0 Pairflow : 0 Protocol : UDP port_no : 2 tx_bytes : 3733 rx_bytes : 1402 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11335 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 4777 bytecount : 5092282 dur : 10 dur_nsec : 711000000 tot_dur : 10711000000.0 flows : 3 packetins : 1790 pktperflow : 0 byteperflow : 0 pktrate : 0 Pairflow : 0 Protocol : UDP port_no : 4 tx_bytes : 58460931 rx_bytes : 3749 tx_kbps : 5232 rx_kbps : 0 tot_kbps : 5232 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11335 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 4777 bytecount : 5092282 dur : 10 dur_nsec : 711000000 tot_dur : 10711000000.0 flows : 3 packetins : 1790 pktperflow : 0 byteperflow : 0 pktrate : 0 Pairflow : 0 Protocol : UDP port_no : 3 tx_bytes : 3413 rx_bytes : 3623 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11335 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 4777 bytecount : 5092282 dur : 10 dur_nsec : 711000000 tot_dur : 10711000000.0 flows : 3 packetins : 1790 pktperflow : 0 byteperflow : 0 pktrate : 0 Pairflow : 0 Protocol : UDP port_no : 2 tx_bytes : 3683 rx_bytes : 1422 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11335 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 4777 bytecount : 5092282 dur : 10 dur_nsec : 711000000 tot_dur : 10711000000.0 flows : 3 packetins : 1790 pktperflow : 0 byteperflow : 0 pktrate : 0 Pairflow : 0 Protocol : UDP port_no : 1 tx_bytes : 3733 rx_bytes : 1172 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11335 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 4777 bytecount : 5092282 dur : 10 dur_nsec : 711000000 tot_dur : 10711000000.0 flows : 3 packetins : 1790 pktperflow : 0 byteperflow : 0 pktrate : 0 Pairflow : 0 Protocol : UDP port_no : 1 tx_bytes : 3753 rx_bytes : 5227812 tx_kbps : 0 rx_kbps : 1393 tot_kbps : 1393 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11335 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 4777 bytecount : 5092282 dur : 10 dur_nsec : 711000000 tot_dur : 10711000000.0 flows : 3 packetins : 1790 pktperflow : 0 byteperflow : 0 pktrate : 0 Pairflow : 0 Protocol : UDP port_no : 1 tx_bytes : 3528 rx_bytes : 1422 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11335 switch : 1 src : 10.0.0.1 dst : 10.0.0.8 pktcount : 4777 bytecount : 5092282 dur : 10 dur_nsec : 711000000 tot_dur : 10711000000.0 flows : 3 packetins : 1790 pktperflow : 0 byteperflow : 0 pktrate : 0 Pairflow : 0 Protocol : UDP port_no : 2 tx_bytes : 3929 rx_bytes : 53230984 tx_kbps : 0 rx_kbps : 3838 tot_kbps : 3838 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.2 dst : 10.0.0.8 pktcount : 90333 bytecount : 96294978 dur : 200 dur_nsec : 744000000 tot_dur : 201000000000.0 flows : 3 packetins : 1943 pktperflow : 13534 byteperflow : 14427244 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 1 tx_bytes : 3775 rx_bytes : 1492 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.2 dst : 10.0.0.8 pktcount : 90333 bytecount : 96294978 dur : 200 dur_nsec : 744000000 tot_dur : 201000000000.0 flows : 3 packetins : 1943 pktperflow : 13534 byteperflow : 14427244 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 2 tx_bytes : 3845 rx_bytes : 1402 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.2 dst : 10.0.0.8 pktcount : 90333 bytecount : 96294978 dur : 200 dur_nsec : 744000000 tot_dur : 201000000000.0 flows : 3 packetins : 1943 pktperflow : 13534 byteperflow : 14427244 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 3 tx_bytes : 3413 rx_bytes : 3665 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.2 dst : 10.0.0.8 pktcount : 90333 bytecount : 96294978 dur : 200 dur_nsec : 744000000 tot_dur : 201000000000.0 flows : 3 packetins : 1943 pktperflow : 13534 byteperflow : 14427244 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 1 tx_bytes : 3775 rx_bytes : 1242 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.2 dst : 10.0.0.8 pktcount : 90333 bytecount : 96294978 dur : 200 dur_nsec : 744000000 tot_dur : 201000000000.0 flows : 3 packetins : 1943 pktperflow : 13534 byteperflow : 14427244 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 3 tx_bytes : 143928631 rx_bytes : 3917 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+Analyzed Packet is Not-Intrusion Packet
+dt : 11425 switch : 1 src : 10.0.0.2 dst : 10.0.0.8 pktcount : 90333 bytecount : 96294978 dur : 200 dur_nsec : 744000000 tot_dur : 201000000000.0 flows : 3 packetins : 1943 pktperflow : 13534 byteperflow : 14427244 pktrate : 451 Pairflow : 0 Protocol : UDP port_no : 1 tx_bytes : 4047 rx_bytes : 143926620 tx_kbps : 0 rx_kbps : 0 tot_kbps : 0 
+total number of packets checked is = 50 
+total number of intrusion packets detected is = 0

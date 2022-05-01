@@ -1,0 +1,9 @@
+********* ENCRYPTION *********
+
+Plain text: cyber security
+Cipher text: CBREUIYYESCRT
+
+********* DECRYPTION *********
+
+Cipher text: CBREUIYYESCRT
+Plain text: cybersecurity

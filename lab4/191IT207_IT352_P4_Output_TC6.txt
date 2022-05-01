@@ -1,0 +1,9 @@
+********* ENCRYPTION *********
+
+Plain text: distributed denial service attack
+Cipher text: DSRBTDEILEVCATCITIUEDNASRIETAK
+
+********* DECRYPTION *********
+
+Cipher text: DSRBTDEILEVCATCITIUEDNASRIETAK
+Plain text: distributeddenialserviceattack
